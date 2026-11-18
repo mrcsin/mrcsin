@@ -11,7 +11,7 @@
                 ||----w |
                 ||     ||
 
-evathesalmon@github:~$ cat whoami
+mrcsin@github:~$ cat whoami
 ```
 
 </div>
